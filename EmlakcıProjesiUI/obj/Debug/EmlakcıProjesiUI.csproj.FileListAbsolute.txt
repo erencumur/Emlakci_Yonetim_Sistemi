@@ -1,0 +1,15 @@
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\bin\Debug\EmlakcıProjesiUI.exe.config
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\bin\Debug\EmlakcıProjesiUI.exe
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\bin\Debug\EmlakcıProjesiUI.pdb
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\bin\Debug\BLL.dll
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\bin\Debug\DAL.dll
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\bin\Debug\BLL.pdb
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\bin\Debug\DAL.pdb
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\obj\Debug\EmlakcıProjesiUI.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\obj\Debug\EmlakcıProjesiUI.Properties.Resources.resources
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\obj\Debug\EmlakcıProjesiUI.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\obj\Debug\EmlakcıProjesiUI.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\obj\Debug\Emlakc_P.5BFE3E5D.Up2Date
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\obj\Debug\EmlakcıProjesiUI.exe
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\obj\Debug\EmlakcıProjesiUI.pdb
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\EmlakcıProjesiUI\obj\Debug\EmlakcıProjesiUI.MainForm.resources

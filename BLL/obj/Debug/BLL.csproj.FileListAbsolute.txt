@@ -1,0 +1,9 @@
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\bin\Debug\BLL.dll
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\bin\Debug\BLL.pdb
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\bin\Debug\DAL.dll
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\bin\Debug\DAL.pdb
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\obj\Debug\BLL.dll
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\BLL\obj\Debug\BLL.pdb

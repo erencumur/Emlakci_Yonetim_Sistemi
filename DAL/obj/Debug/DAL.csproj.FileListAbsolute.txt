@@ -1,0 +1,6 @@
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\DAL\bin\Debug\DAL.dll
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\DAL\bin\Debug\DAL.pdb
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\DAL\obj\Debug\DAL.dll
+C:\Users\Eren\source\repos\EmlakcıProjesiUI\DAL\obj\Debug\DAL.pdb
